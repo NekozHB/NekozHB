@@ -1,4 +1,8 @@
-### Hi there 👋
+### 반갑습니다 👋
+#### 디자이너 허니박스입니다.
+웹 디자인, UI/UX, 그래픽 디자인, 모션 그래픽 등 다양한 분야를 다루고 있어요.
+
+neko@nekoz.kr
 
 <!--
 **NekozHB/NekozHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
